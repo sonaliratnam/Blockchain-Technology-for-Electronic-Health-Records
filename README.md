@@ -1,4 +1,4 @@
-# Blockchain-Technology-for-Electronic-Health-Records
+# Blockchain Technology for Electronic Health Records
 This system will have 4 basic entities in health care system. There will be one smart contract between all the entities. All the communication between entities will happen as blockchain transactions. So, any transaction sent on blockchain serves as a proof of communication between entities. This ensures a trust factor among entities in the system.
 System has following entities:
 1.	Patient:
